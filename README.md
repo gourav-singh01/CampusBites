@@ -51,8 +51,11 @@ The primary objective of this project is to develop a **frontend prototype** tha
 
 ## 📸 Preview
 
-*Add screenshots here to showcase UI (highly recommended for better presentation)*
+### Home Page
+![Home](screenshot1.png)
 
+### Menu Section
+![Menu](screenshot2.png)
 ---
 
 ## 🔮 Future Enhancements
